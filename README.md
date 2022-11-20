@@ -61,8 +61,8 @@ Run RTL simulation and timing diagram.
 ### PROGRAM 
 /*
 Program for  Implementation-of Shift-registers-using-verilog-
-### Developed by: Palamakula deepika
-### RegisterNumber:21222140035
+### Developed by: Baggu Dhivya Shri
+### RegisterNumber:212221230009
 */
 ~~~~
 SIPO
